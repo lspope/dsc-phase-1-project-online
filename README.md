@@ -7,7 +7,9 @@ Presentation URL: [here](PhaseOneProject_LeahPope.pdf)
 
 Presentation Video URL:[here](external link)
 
-<img src="./images/abstraction-movie-cinema-art-wallpaper-thumb.jpg"/></p>
+<img src="./images/abstraction-movie-cinema-art-wallpaper-thumb.jpg"/>
+
+![movietime](images/abstraction-movie-cinema-art-wallpaper-thumb.jpg)
 
 # Business Problem
 <p>Microsoft has decided to create a new movie studio (code name: "Clippy: Resurrection") and has enlisted the promising data science prowess of the Flatiron DS-FT-081720 Cohort to gather insights into the movie industry. 
@@ -61,13 +63,13 @@ What insights can be we gain by examining ratings from professional (and non-pro
 
 
 # Results
-See individual Question Notebook for Exploratory Data Analysis (EDA) and Results.
+Exploratory Data Analysis (EDA) and Results are in [Question 1](./notebooks/gross_amount_insights.ipynb) [Question 2](./notebooks/worthy_rivals.ipynb) and [Question 3](./notebooks/do_critics_count.ipynb) Jupyter Notebooks.
 
 # Conclusions
 The analysis leads to the following recommendations as Microsoft Studios plans to enter the movie industry.
 
- *__Movie gross amounts are on an upwards trend.__ For the past nine years, domestic, foreign, (and worldwide) movie gross amounts are rising. Movies are still in demand which is good news for our client's new endevour.
-
+* __Movie gross amounts are on an upwards trend.__  For the past nine years, domestic, foreign, (and worldwide) movie gross amounts are rising. Movies are still in demand which is good news for our client's new endevour.
+ 
 * __Recent movie gross amounts dipped but recovered.__ More good news but also a slight warning to expect that yearly increases are a sure thing.
 
 * __Set target gross goals wisely.__ If the client want to swing for the fences and release the next blockbuster, they should target the recent average gross amounts. If they want to start sensible and strong, they should target the recent median gross amounts.
@@ -85,7 +87,7 @@ Futher analysis into the following areas could yield additional insights.
 
 * __Procure more data from BOM with both domestic and foreign gross.__  I would like to follow the same steps but on a larger dataset from Box Office Mojo that contains more domestic and foreign gross data.
 
- __Consider running "do critics really count" analysis again with more data.__ This data set is small. Only 340 movies had box office numbers. I did not check the time span on this dataset. Determine if there is more of this data on Rotten Tomatoes.
+ * __Consider running "do critics really count" analysis again with more data.__ This data set is small. Only 340 movies had box office numbers. I did not check the time span on this dataset. Determine if there is more of this data on Rotten Tomatoes.
 
 * __Clean up the messy critics' ratings.__ Maybe the Tomatometer is not all it is hyped up to be?  I could come up with a way to standardize the messy reviews from the critics. (Note: I do not suggest the critics are messy...just their rating systems.)
 
@@ -97,7 +99,6 @@ Futher analysis into the following areas could yield additional insights.
 
 
 # For More Information
-* See the full technical data analysis in the [Question 1](./notebooks/gross_amount_insights.ipynb) [Question 2](./notebooks/worthy_rivals.ipynb) and [Question 3](./notebooks/do_critics_count.ipynb) Jupyter Notebooks.
 * Review the non-technical presentation [here](PhaseOneProject_LeahPope.pdf)
 * View the non-technical presentation video [here](link)
 * Contact the author [Leah Pope](https://www.linkedin.com/in/leahspope/)
