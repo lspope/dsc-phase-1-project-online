@@ -7,8 +7,6 @@ Presentation URL: [here](PhaseOneProject_LeahPope.pdf)
 
 Presentation Video URL:[here](external link)
 
-<img src="./images/abstraction-movie-cinema-art-wallpaper-thumb.jpg"/>
-
 ![movietime](images/abstraction-movie-cinema-art-wallpaper-thumb.jpg)
 
 # Business Problem
