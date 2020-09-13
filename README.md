@@ -5,7 +5,7 @@ Prepared and presented by: Leah Pope (full time Data Science student)
 
 Presentation URL: [here](PhaseOneProject_LeahPope.pdf)
 
-Presentation Video URL:[here](external link)
+Presentation Video URL: [here](https://drive.google.com/file/d/1RTQGUInYbLNbz-z9ZAe-qhua7j3OvF_Q/view?usp=sharing)
 
 ![movietime](images/abstraction-movie-cinema-art-wallpaper-thumb.jpg)
 
