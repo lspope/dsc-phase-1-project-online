@@ -35,7 +35,7 @@ You will be exploring what type of films are currently doing the best at the box
 
 # Questions Explored
 
-## Question: What insights we can gain from gross amount?
+## Question 1: What insights we can gain from gross amount?
 a. How gross box-office trends over time.
 b. What is the current gross box-office revenue to meet and beat?
 ### Data used:
@@ -43,20 +43,18 @@ b. What is the current gross box-office revenue to meet and beat?
 ### [Notebook](./notebooks/gross_amount_insights.ipynb)
 
 
-## Question: Which studios are [Worthy Rivals](https://ideas.ted.com/how-having-the-right-kind-of-rival-can-help-you-thrive-in-a-changing-world/)?
+## Question 2: Which studios are [Worthy Rivals](https://ideas.ted.com/how-having-the-right-kind-of-rival-can-help-you-thrive-in-a-changing-world/)?
 ex: Which studios are currently releasing top-grossing movies?
 ### Data used:
 * bom.movie_gross.csv.gz
 ### [Notebook](./notebooks/worthy_rivals.ipynb)
 
 
-## Question: Do critics really count? 
+## Question 3: Do critics really count? 
 What insights can be we gain by examining ratings from professional (and non-professional) movie reviewers and box-office revenue?
 ### Data used:
 * rt.movie_info.tsv.gz
 * rt.reviews.tsv.gz
-* imdb.title.basics.csv.gz
-* imdb.title.ratings.csv.gz
 ### [Notebook](./notebooks/do_critics_count.ipynb)
 
 
@@ -98,7 +96,7 @@ Futher analysis into the following areas could yield additional insights.
 
 # For More Information
 * Review the non-technical presentation [here](PhaseOneProject_LeahPope.pdf)
-* View the non-technical presentation video [here](link)
+* View the non-technical presentation video [here](https://drive.google.com/file/d/1RTQGUInYbLNbz-z9ZAe-qhua7j3OvF_Q/view?usp=sharing)
 * Contact the author [Leah Pope](https://www.linkedin.com/in/leahspope/)
 
 
